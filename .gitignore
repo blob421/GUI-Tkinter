@@ -1,2 +1,5 @@
 .TkinterGui
-__pycache__
+build
+dist
+main.spec
+__pycache__/*.pyc
