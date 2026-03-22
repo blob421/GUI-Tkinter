@@ -2,4 +2,9 @@
 build
 dist
 main.spec
-__pycache__/*.pyc
+
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
